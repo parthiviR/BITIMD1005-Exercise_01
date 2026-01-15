@@ -28,9 +28,3 @@ Your task is to take the plain text content in `index.html` and wrap it with the
 - The `<head>` section needs a `<meta charset="UTF-8">` and a `<title>`
 - Use `<label>` elements with `for` attributes that match input `id` attributes
 - Tables should have `<thead>` for header rows and `<tbody>` for data rows
-
-## Final Result
-
-Your finished page should look similar to this:
-
-![Finished Exercise](images/finished.png)
